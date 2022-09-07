@@ -35,7 +35,7 @@ open terminal on the test folder path and enter
 
        npx cypress open
        
-A test runner will open then you can find all your test folders on left side ,just click endtoEnd_Spec.js
+A test runner will open then you can find all your test folders on left side ,just click Test_spec.cy.js
 
 A new chrome window opens and test run on it
 
